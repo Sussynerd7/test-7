@@ -1,0 +1,112 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Website Redesign",
+      "description": "Complete the homepage redesign with new UI components",
+      "name": "John Smith",
+      "priority": "HIGH",
+      "status": "in progress ",
+      "dateofcreation": "2024-01-15"
+    },
+    {
+      "id": 2,
+      "title": "API Integration",
+      "description": "Integrate payment gateway API into the e-commerce platform",
+      "name": "Sarah Johnson",
+      "priority": "MEDIUM",
+      "status": "in progress ",
+      "dateofcreation": "2024-01-16"
+    },
+    {
+      "id": 3,
+      "title": "Database Migration",
+      "description": "Migrate user data from legacy system to new cloud database",
+      "name": "Mike Chen",
+      "priority": "HIGH",
+      "status": "in progress ",
+      "dateofcreation": "2024-01-10"
+    },
+    {
+      "id": 4,
+      "title": "Mobile App Testing",
+      "description": "Perform comprehensive testing on the new mobile application",
+      "name": "Emily Davis",
+      "priority": "MEDIUM",
+      "status": "in progress ",
+      "dateofcreation": "2024-01-18"
+    },
+    {
+      "id": 5,
+      "title": "Security Audit",
+      "description": "Conduct security audit and vulnerability assessment",
+      "name": "Robert Wilson",
+      "priority": "CRITICAL",
+      "status": "in progress ",
+      "dateofcreation": "2024-01-12"
+    },
+    {
+      "id": 6,
+      "title": "Documentation Update",
+      "description": "Update technical documentation for new features",
+      "name": "Lisa Brown",
+      "priority": "LOW",
+      "status": "in progress ",
+      "dateofcreation": "2024-01-14"
+    },
+    {
+      "id": 7,
+      "title": "Client Meeting Preparation",
+      "description": "Prepare presentation and materials for quarterly client meeting",
+      "name": "David Miller",
+      "priority": "HIGH",
+      "status": "in progress ",
+      "dateofcreation": "2024-01-17"
+    },
+    {
+      "id": 8,
+      "title": "Performance Optimization",
+      "description": "Optimize website loading speed and server response time",
+      "name": "Jennifer Lee",
+      "priority": "MEDIUM",
+      "status": "in progress ",
+      "dateofcreation": "2024-01-11"
+    },
+    {
+      "id": 9,
+      "title": "Team Training",
+      "description": "Organize training session for new development tools",
+      "name": "Thomas Anderson",
+      "priority": "LOW",
+      "status": "in progress ",
+      "dateofcreation": "2024-01-09"
+    },
+    {
+      "id": 10,
+      "title": "Bug Fixes",
+      "description": "Address critical bugs reported by QA team",
+      "name": "Maria Garcia",
+      "priority": "HIGH",
+      "status": "in progress ",
+      "dateofcreation": "2024-01-19"
+    },
+    {
+      "id": 11,
+      "title": "Feature Development",
+      "description": "Implement user authentication and authorization system",
+      "name": "James Taylor",
+      "priority": "MEDIUM",
+      "status": "in progress ",
+      "dateofcreation": "2024-01-13"
+    },
+    {
+      "id": 12,
+      "title": "Code Review",
+      "description": "Review and provide feedback on pull requests",
+      "name": "Amanda White",
+      "priority": "LOW",
+      "status": "in progress ",
+      "dateofcreation": "2024-01-20"
+    }
+  ]
+}
