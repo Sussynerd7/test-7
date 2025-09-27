@@ -6,7 +6,7 @@
       "description": "Complete the homepage redesign with new UI components",
       "name": "John Smith",
       "priority": "HIGH",
-      "status": "in progress ",
+      "status": "open",
       "dateofcreation": "2024-01-15"
     },
     {
@@ -33,7 +33,7 @@
       "description": "Perform comprehensive testing on the new mobile application",
       "name": "Emily Davis",
       "priority": "MEDIUM",
-      "status": "in progress ",
+      "status": "open",
       "dateofcreation": "2024-01-18"
     },
     {
@@ -51,7 +51,7 @@
       "description": "Update technical documentation for new features",
       "name": "Lisa Brown",
       "priority": "LOW",
-      "status": "in progress ",
+      "status": "open",
       "dateofcreation": "2024-01-14"
     },
     {
@@ -78,7 +78,7 @@
       "description": "Organize training session for new development tools",
       "name": "Thomas Anderson",
       "priority": "LOW",
-      "status": "in progress ",
+      "status": "open",
       "dateofcreation": "2024-01-09"
     },
     {
@@ -87,7 +87,7 @@
       "description": "Address critical bugs reported by QA team",
       "name": "Maria Garcia",
       "priority": "HIGH",
-      "status": "in progress ",
+      "status": "open",
       "dateofcreation": "2024-01-19"
     },
     {
@@ -105,7 +105,7 @@
       "description": "Review and provide feedback on pull requests",
       "name": "Amanda White",
       "priority": "LOW",
-      "status": "in progress ",
+      "status": "open",
       "dateofcreation": "2024-01-20"
     }
   ]

@@ -32,7 +32,9 @@ const TaskCards = ({ task, setTask, taskinfo, setProgressCount, progresscount })
         >
             <div className='font-semibold flex justify-between mb-2'>
                 <h1 className='2xl:text-xl text-lg'>{task.title}</h1>
-                <h1 className='bg-green-200 rounded-4xl p-2'>
+                <h1 className={`${
+                    task.status === "open"?"bg-green-200":"bg-yellow-200"
+                } rounded-4xl p-2`}>
                     <span className='relative right-[3px] bottom-[2px] bg-green-400 rounded-[50px] text-[10px] text-green-400 p-1'> --- </span>
                     {task.status}
                 </h1>
